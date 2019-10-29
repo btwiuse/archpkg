@@ -1,4 +1,5 @@
 *.db
+*.old
 *.files
 *.db.tar
 *.files.tar
